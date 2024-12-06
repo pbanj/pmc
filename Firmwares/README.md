@@ -1,3 +1,3 @@
-#Firmwares
+# Firmwares
 
-These are the firmwares for the flasher and chip.
+These are the firmwares for the flasher.
