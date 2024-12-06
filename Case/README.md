@@ -2,4 +2,4 @@
 
 A case to hold the board and aid in flashing
 
-All credits to @Wurmatron
+All credits to @[Wurmatron](https://github.com/Wurmatron)  
