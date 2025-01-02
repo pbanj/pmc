@@ -43,6 +43,6 @@ Want to thank
 #Disclaimer
 Important: This is for educational purposes only.
 
-neither I nor the contributors are not responsible for any misuse or damage caused by this project.  
+neither I nor the contributors are responsible for any misuse or damage caused by this project.  
 Use at your own risk and only on systems you own or have explicit permission to test.
  
