@@ -23,26 +23,28 @@ There will be different "hats" for it so it can be used to flash more than just 
 ![9](https://github.com/pbanj/pmc/blob/main/PCBs/Picio/Pics/9.webp)  
 
 
-My license is, just give credit which is as simple as leaving the QR code as it links to this repo. I didn't do this to make money, I did this for the community and to see if i could.  
+# License
+My license is, just give credit which is as simple as leaving the QR code as it links to this repo. I didn't do this to make money, I did this for the community and to see if I could.  
 
+
+
+# Help fund current and future projects  
 
 Now with all the cool stuff out of the way here comes the dumb stuff. Ordering prototypes is fairly expensive.  
 The pcbs themselves are not too expensive, but the parts add up quick.  
-So if you'd like to help with current/future projects here is my [paypal](https://paypal.me/pbanj) this will help get pcbs done faster.  
-
-
-
+So if you'd like to help with current/future projects here is my [Paypal](https://paypal.me/pbanj), [Buy me a coffee](https://buymeacoffee.com/pbanj), and directly through my [Website](https://shop.pbanjin.space/product/tip).   
+This will help get pcbs done faster.  
 
 # Donators  
-Want to thank  
+
+I want to thank 
 
 [Lazer1026](https://github.com/Lazr1026)  
-[Emerekt](https://github.com/Emerekt-git) 
+[Emerekt](https://github.com/Emerekt-git)  
+Stashboy for taking measurements for me because my calipers were dead.
 
+# Disclaimer  
 
-#Disclaimer
-Important: This is for educational purposes only.
-
-neither I nor the contributors are responsible for any misuse or damage caused by this project.  
-Use at your own risk and only on systems you own or have explicit permission to test.
- 
+- This is for educational purposes only.  
+- Neither I nor the contributors are responsible for any misuse or damage caused by this project.  
+- Use at your own risk and only on systems you own or have explicit permission to test.  
