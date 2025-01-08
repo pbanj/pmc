@@ -10,8 +10,11 @@ I use picos for all sorts of projects around my house. So this was a way for me 
 So Picochu was born. The name started as a joke, but stuck when I couldn't come up with something better.  
 
 It's so small that it needs a seperate flasher. That's where the Picocenter comes in. It'll be a self contained Pico flasher with WiFi, WebUI and a screen.  
-It uses a esp32 so it can grab the latest firmware you tell it to. The screen will display info, status, errors, and prob Doom.  
-There will be different "hats" for it so it can be used to flash more than just picochu.     
+It uses a esp32 so it can grab the latest firmware you tell it to. The screen will display info, status, errors, and ~~prob Doom~~.  
+There will be different "hats" for it so it can be used to flash more than just picochu.    
+
+
+I was able to shrink Picochu down to 10x18mm. I was also able to breakout more GPIO points for a total of 12. 
 
 ## This is still a major W.I.P
 
