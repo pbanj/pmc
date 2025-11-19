@@ -17,4 +17,5 @@ But it can be used on it's own to add a debug led to projects.
 # Pics  
 
 ![3D](https://github.com/pbanj/pmc/blob/main/Pics/Flash_3D.png?raw=true)
-![top](https://github.com/pbanj/pmc/blob/main/Pics/Flash.png?raw=true)
+![Top](https://github.com/pbanj/pmc/blob/main/Pics/Flash.png?raw=true)
+![Pinout](https://github.com/pbanj/pmc/blob/main/Pics/Flash_Pinout.png?raw=true)
