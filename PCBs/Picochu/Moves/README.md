@@ -3,6 +3,9 @@
 A little PCB to hold an LED for debugging.  
 The BOM & Pick And Place are for useage with Picochu. 
 But it can be used on it's own to add a debug led to projects.   
+Prototypes came, made some adjustments. 
+ 
+ 
  
 # Features  
 
