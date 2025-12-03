@@ -2,9 +2,9 @@
 
 A little PCB to hold an LED for debugging.  
 The BOM & Pick And Place are for useage with Picochu. 
-But it can be used on it's own to add a debug led to projects.   
+But it can be used on it's own to add a debug led to projects. Or to relocate the LED off other pico boards.  
 Prototypes came, made some adjustments. 
- 
+Should be printed 0.8mm or smaller 
  
  
 # Features  
@@ -15,7 +15,7 @@ Prototypes came, made some adjustments.
 - A reversable pad setup so you can do either inline or pulldown resistor on the DIN line.  
 - Ground is along edge so it can be used as an anchor. I did them facing the same way so castellated holes are cheaper if you want them.
 - Minimum board size for OSH Park, can get 30 boards made for $4.00. Cut them in half and you have 60 boards.  
-
+- 8 Column 5 Row panel gerbers & json added for those that need want it, will make mass assembly easier. 
 
 # Pics  
 

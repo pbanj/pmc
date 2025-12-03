@@ -149,7 +149,7 @@
     "showDRCRangeLine": true
   },
   "panelize": {
-    "type": "noPanelize",
+    "type": "vCut",
     "row": 5,
     "column": 8,
     "rowSpacing": 11.811,
@@ -160,7 +160,11 @@
     "borderHeight": 23.622,
     "borderPosition": "topBottom",
     "createHoles": true,
-    "createMarks": true
+    "createMarks": true,
+    "offset": {
+      "x": 35.9486953125,
+      "y": 48.031703125
+    }
   },
   "netColors": {}
 }

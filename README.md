@@ -15,15 +15,18 @@ There will be different "hats" for it so it can be used to flash more than just 
 
 
 I was able to shrink Picochu down to 10x18mm. I was also able to breakout more GPIO points for a total of 12. 
+I've moved the LED off of Picochu to its own board.  
+I did this in a way that the board for it is useful for adding a debug LED to things/move an LED from the boards location to an easier to see one.  
+This allowed me to move some parts around to make assembly hopefully easier.
 
 ## This is still a major W.I.P
 
 
-![1](https://github.com/pbanj/pmc/blob/main/PCBs/Picio/Pics/1.webp)  
-![6](https://github.com/pbanj/pmc/blob/main/PCBs/Picio/Pics/6.webp)  
-![7](https://github.com/pbanj/pmc/blob/main/PCBs/Picio/Pics/7.webp)  
-![8](https://github.com/pbanj/pmc/blob/main/PCBs/Picio/Pics/8.webp)  
-![9](https://github.com/pbanj/pmc/blob/main/PCBs/Picio/Pics/9.webp)  
+![1](https://github.com/pbanj/pmc/blob/main/PCBs/Picochu/Pics/1.webp)  
+![6](https://github.com/pbanj/pmc/blob/main/PCBs/Picochu/Pics/6.webp)  
+![7](https://github.com/pbanj/pmc/blob/main/PCBs/Picochu/Pics/7.webp)  
+![8](https://github.com/pbanj/pmc/blob/main/PCBs/Picochu/Pics/8.webp)  
+![9](https://github.com/pbanj/pmc/blob/main/PCBs/Picochu/Pics/9.webp)  
 
 
 # License
